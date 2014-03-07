@@ -1,4 +1,7 @@
-safe: true
-lsi: false
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+name: calebchesnut.com
+markdown: redcarpet
 pygments: true
-# source: your top-level directory
+paginate: 10 # pagination basted on number of posts
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss', 'bootstrap.scss'] # files to exclude
+

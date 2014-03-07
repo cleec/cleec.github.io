@@ -1,4 +1,10 @@
-cleec.github.io
-===============
+HTML5 Muffin chocchip steps
+============================
 
-Portfolio Site
+Run bundle install
+
+	bundle install
+
+Run jekyll
+
+	jekyll
