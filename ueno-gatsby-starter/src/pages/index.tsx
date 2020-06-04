@@ -16,6 +16,7 @@ export default () => (
       <Highlight>SCSS</Highlight>, <Highlight>CSS Modules</Highlight>,{' '}
       <Highlight>React Hooks</Highlight>,&nbsp;
       <Highlight>root resolver</Highlight>, <Highlight>code splitting</Highlight> and a lot of love.
+      TEST
     </Intro>
 
     <BlockText
